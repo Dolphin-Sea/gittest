@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("Github push test");
+        System.out.println("Github push test success");
+        System.out.println("Gitee push test");
     }
 }
